@@ -2,7 +2,6 @@ import { UIElement } from "./UIElement";
 import appConfig from "./appConfig.json";
 import { ClassInfo } from "./ClassInfo";
 import { CodeElement } from "./CodeElement";
-import { Documentation } from "./Documentation";
 import { ExtendList } from "./ExtendList";
 import { FileMenu } from "./FileMenu";
 

@@ -1,6 +1,5 @@
 import { UIElement } from "./UIElement";
 import appConfig from "./appConfig.json";
-import { Documentation } from "./Documentation";
 
 
 class FileElement extends UIElement {
